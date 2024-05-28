@@ -2,4 +2,5 @@ belajar\jdbc\database\DriverTest.class
 belajar\jdbc\database\ResultSetTest.class
 belajar\jdbc\database\ConnectionTest.class
 belajar\jdbc\database\StatementTest.class
+belajar\jdbc\database\SqlInjectionTest.class
 belajar\jdbc\database\ConnectionPoolTest.class
