@@ -2,6 +2,7 @@ belajar\jdbc\database\DriverTest.class
 belajar\jdbc\database\PreparedStatementTest.class
 belajar\jdbc\database\BatchProsesTest.class
 belajar\jdbc\database\ConnectionTest.class
+belajar\jdbc\database\DateTimeTStampTest.class
 belajar\jdbc\database\AutoIncrementTest.class
 belajar\jdbc\database\ResultSetTest.class
 belajar\jdbc\database\StatementTest.class
