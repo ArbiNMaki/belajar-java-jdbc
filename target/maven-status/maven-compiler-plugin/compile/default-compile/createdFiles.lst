@@ -1,0 +1,5 @@
+belajar\jdbc\database\repository\CommentRepository.class
+belajar\jdbc\database\ConnectionUtil.class
+belajar\jdbc\database\entity\Comment.class
+belajar\jdbc\database\repository\CommentRepositoryImpl.class
+belajar\jdbc\database\App.class

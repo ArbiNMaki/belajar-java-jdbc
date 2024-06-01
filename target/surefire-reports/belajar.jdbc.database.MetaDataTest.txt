@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: belajar.jdbc.database.MetaDataTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in belajar.jdbc.database.MetaDataTest
+testParameterMetaData  Time elapsed: 0.026 s  <<< ERROR!
+java.sql.SQLException: Parameter metadata not available for the given statement
+	at belajar.jdbc.database.MetaDataTest.testParameterMetaData(MetaDataTest.java:35)
+
